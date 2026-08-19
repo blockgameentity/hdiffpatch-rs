@@ -1,0 +1,8 @@
+# Local Pi runtime state
+.atl/
+
+# Stale vendored copy (held by a file watcher during this session; safe to rm manually)
+/lib/
+
+# Build artifacts
+/target
