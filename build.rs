@@ -173,6 +173,7 @@ const ZSTD_C_FILES: &[&str] = &[
     "compress/zstd_compress_literals.c",
     "compress/zstd_compress_sequences.c",
     "compress/zstd_compress_superblock.c",
+    "compress/zstd_preSplit.c",
     "compress/zstd_double_fast.c",
     "compress/zstd_fast.c",
     "compress/zstd_lazy.c",

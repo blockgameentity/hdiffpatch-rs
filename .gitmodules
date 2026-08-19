@@ -3,4 +3,4 @@
 	url = https://github.com/sisong/HDiffPatch
 [submodule "vendor/zstd"]
 	path = vendor/zstd
-	url = https://github.com/facebook/zstd
+	url = https://github.com/sisong/zstd
